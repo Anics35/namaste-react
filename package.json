@@ -1,0 +1,21 @@
+{
+  "name": "namaste-react-codes",
+  "version": "1.0.0",
+  "description": "REACT",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anics35/namaste-react"
+  },
+  "keywords": [
+    "namaste_react"
+  ],
+  "author": "Anirban Saha",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}
