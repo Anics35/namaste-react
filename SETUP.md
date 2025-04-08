@@ -42,3 +42,9 @@ npx parcel build index.html
     "last 2 versions"
   ]
 ```
+### Script
+![Photo](images/2.png)
+```bash
+npm run start
+npm run build 
+```
